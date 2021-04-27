@@ -1,8 +1,8 @@
-### Hi there 👋
+## 👋 Hi there
 
 My name is Szymon Górka, currently I am 2nd year IT student at the Lodz University of Technology. I like tex-mex food, Rick & Morty, alternative music, and FOSS software. I am looking for a remote job.
 
-## Projects
+## 📦 Projects
 |Repo|Stars|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---|:---:|
 |[SCSBAF40](https://github.com/SzymonGoldberg/scsbaf40)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/scsbaf40?style=flat-square)|Finished|Simple, ergonomic keyboard. Designed, built and programmed from scratch with KiCAD and Arduino IDE.|
@@ -11,7 +11,7 @@ My name is Szymon Górka, currently I am 2nd year IT student at the Lodz Univers
 |[caffeine-library](https://github.com/SzymonGoldberg/caffeine-library)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/caffeine-library?style=flat-square)|In progress| Minimalistic, small library for basic neural networks written without any dependencies in pure C99.|
 |[deep-deductor](https://github.com/SzymonGoldberg/deep-deductor)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/deep-deductor?style=flat-square)|In progress| Poker engine and ML/AI algorhitms created for playing Texas Holdem, written in Python.|
 
-## Technologies
+## ⚡ Technologies
 * Low level programming in **C lang**
 * OOP with **C++** and **Java**
 * Project management with tools like **git**, **makefile** and **doxygen**
