@@ -19,6 +19,7 @@ My name is Szymon Górka, currently I am studying IT on University of Technology
 * Basic **ML/AI algorithms**
 * **Test driven development**
 * Basics of **SQL**
+* **PCB projecting** with **KiCAD**, **AutoCAD**
 
 ## 🌱 I’m currently learning ...
 * computer vision
