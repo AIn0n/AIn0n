@@ -1,21 +1,28 @@
 ### Hi there 👋
 
-My name is Szymon Górka, currently I am studying IT on University of Technology in Lodz, in my second year. I like tex-mex food, Rick & Morty, alternative music, and FOSS software.
+My name is Szymon Górka, currently I am studying IT on University of Technology in Lodz, in my second year. I like tex-mex food, Rick & Morty, alternative music, and FOSS software. I am looking for remote/work from home job.
 
 ## Projects
 |Repo|Stars|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---|:---:|
 |[SCSBAF40](https://github.com/SzymonGoldberg/scsbaf40)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/scsbaf40?style=flat-square)|Finished|Simple, ergonomic keyboard. Projected, built and programmed from scratch with KiCAD and Arduino IDE.|
 |[kaffenOS](https://github.com/SzymonGoldberg/kaffenOS)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/kaffenOS?style=flat-square)|Finished|Basic operating system for x86_32 architecture, with working concurrency (task switching), terminal, keyboard, interrupts and PIT timer.|
+|[weeia-jam](https://github.com/FruitEaters-Inc/weeia-jam)|![GitHub Repo stars](https://img.shields.io/github/stars/FruitEaters-Inc/weeia-jam?style=flat-square)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
 |[caffeine-library](https://github.com/SzymonGoldberg/caffeine-library)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/caffeine-library?style=flat-square)|In progress| Minimalistic, small library for basic neural networks written without any dependencies in pure C99.|
 |[deep-deductor](https://github.com/SzymonGoldberg/deep-deductor)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/deep-deductor?style=flat-square)|In progress| Poker engine and ML/AI algorhitms created for playing Texas Holdem, written in Python.|
+
 ## Technologies
-* low level programmint in **C lang**
+* Low level programming in **C lang**
 * OOP with **C++ and Java**
+* Project management with tools like **git**, **makefile** and **doxygen**
+* **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
 * Basic **ML/AI algorithms**
-* Project managment with **git**, **makefile** and **doxygen**
-* **Python** with many libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
+* **Test driven development**
 * Basics of **SQL**
+
+## 🌱 I’m currently learning ...
+* computer vision
+* lisp programming language
 
 <!--
 **SzymonGoldberg/SzymonGoldberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
