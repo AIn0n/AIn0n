@@ -13,7 +13,7 @@ My name is Szymon Górka, currently I am studying IT on University of Technology
 
 ## Technologies
 * Low level programming in **C lang**
-* OOP with **C++ and Java**
+* OOP with **C++** and **Java**
 * Project management with tools like **git**, **makefile** and **doxygen**
 * **Python** and many useful libraries like **matplotlib**, **pyGame**, **pyQt**, etc.
 * Basic **ML/AI algorithms**
