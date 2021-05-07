@@ -25,6 +25,9 @@ My name is Szymon Górka, currently I am 2nd year IT student at the Lodz Univers
 * computer vision
 * lisp programming language
 
+## 💬 More...
+For more informations, please check out my ![cirriculum vitae](ttps://github.com/SzymonGoldberg/SzymonGoldberg/blob/master/Gorka-Szymon-CV-github.pdf).
+
 <!--
 **SzymonGoldberg/SzymonGoldberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
