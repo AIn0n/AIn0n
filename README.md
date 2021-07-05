@@ -29,6 +29,7 @@ My name is Szymon Górka, currently I am 2nd year IT student at the Lodz Univers
 ## 📚 Books I'm reading now
 * _Hackers & Painters: Big Ideas from the Computer Age_ by Paul Graham
 * _Modern Python Standard Library Cookbook_ by Alessandro Molina
+* _97 Things Every Software Architect Should Know_ by Richard Monson-Heafel
 * ~~_97 Things Every Programmer Should Know_ by Kevlin Henney~~
 
 ## 💬 More...
