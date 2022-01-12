@@ -33,7 +33,7 @@ My name is Szymon Górka, currently I am 2nd year IT student at the Lodz Univers
 * ~~_97 Things Every Programmer Should Know_ by Kevlin Henney~~
 
 ## 💬 More...
-For more informations, please check out my [cirriculum vitae](https://github.com/SzymonGoldberg/SzymonGoldberg/blob/master/Gorka-Szymon-CV-github.pdf).
+For more information, please check out my [cirriculum vitae](https://github.com/SzymonGoldberg/SzymonGoldberg/blob/master/Gorka-Szymon-CV-github.pdf).
 
 <!--
 **SzymonGoldberg/SzymonGoldberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
