@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-My name is Szymon Górka, currently I am a 3rd year IT student at the Lodz University of Technology. I like tex-mex food, Rick & Morty, alternative music, and FOSS software. I am looking for a remote job.
+My name is Szymon Górka, currently I am a 3rd year IT student at the Lodz University of Technology. I like tex-mex food, Rick & Morty, alternative music, and FOSS software.
 
 ## 📦 Projects
 |Repo|Stars|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
