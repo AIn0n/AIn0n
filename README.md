@@ -25,6 +25,7 @@ My name is Szymon Górka, currently I am a 3rd year IT student at the Lodz Unive
 * _The Pragmatic Programmer: From Journeyman to Master_ by Andrew Hunt & David Thomas
 * _The Tao of Programming_ by Geoffrey James
 * _97 Things Every Programmer Should Know_ by Kevlin Henney
+* _Code: The Hidden Language of Computer Hardware and Software_ by Charles Petzold
 
 ## 💬 More...
 For more information, please check out my [cirriculum vitae](https://github.com/SzymonGoldberg/SzymonGoldberg/blob/master/Gorka-Szymon-CV-github.pdf).
