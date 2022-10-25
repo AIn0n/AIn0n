@@ -9,8 +9,7 @@ My name is Szymon Górka, currently I am a 3rd year IT student at the Lodz Unive
 |[kaffenOS](https://github.com/SzymonGoldberg/kaffenOS)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/kaffenOS?style=flat-square)|Finished|Basic operating system for x86_32 architecture, with working concurrency (task switching), terminal, keyboard, interrupts and PIT timer.|
 |[weeia-jam 2021](https://github.com/FruitEaters-Inc/weeia-jam)|![GitHub Repo stars](https://img.shields.io/github/stars/FruitEaters-Inc/weeia-jam?style=flat-square)|Finished| Group project, small game written in 24h during WEEIA JAM with python and pyGame library.|
 |[weeia-jam 2022](https://github.com/FruitEaters-Inc/EEIA_Jam_2022)|![GitHub Repo stars](https://img.shields.io/github/stars/FruitEaters-Inc/EEIA_Jam_2022?style=flat-square)|Finished| Group project, game written in 36h during WEEIA JAM. Second place out of six teams 💪|
-|[caffeine-library](https://github.com/SzymonGoldberg/caffeine-library)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/caffeine-library?style=flat-square)|In progress| Minimalistic, small library for basic neural networks written without any dependencies in pure C99.|
-|[deep-deductor](https://github.com/SzymonGoldberg/deep-deductor)|![GitHub Repo stars](https://img.shields.io/github/stars/SzymonGoldberg/deep-deductor?style=flat-square)|In progress| Poker engine and ML/AI algorhitms created for playing Texas Holdem, written in Python.|
+|[pineapple-intelligence](https://github.com/AIn0n/pineapple-intelligence)|![GitHub Repo stars](https://img.shields.io/github/stars/AIn0n/pineapple-intelligence?style=flat-square)|Finished| Minimalistic, small library for basic neural networks written without any dependencies in pure C99.|
 
 ## ⚡ Technologies
 * Low level programming in **C lang**
