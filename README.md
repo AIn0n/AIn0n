@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-My name is Szymon Górka, currently a postgrad IT at the Lodz University of Technology. I like Tex-Mex Food, Rick & Morty, alternative music, and FOSS software.
+My name is Szymon Górka, I'm AI/ML engineer at Digica and backend developer for Septic Solutions.
 
 ## 📦 Projects
 |Repo|Stars|Description|
@@ -14,7 +14,6 @@ My name is Szymon Górka, currently a postgrad IT at the Lodz University of Tech
 
 ## 📚 My favorite IT books
 * _The Pragmatic Programmer: From Journeyman to Master_ by Andrew Hunt & David Thomas
-* _The Tao of Programming_ by Geoffrey James
 * _97 Things Every Programmer Should Know_ by Kevlin Henney
 * _Code: The Hidden Language of Computer Hardware and Software_ by Charles Petzold
 
